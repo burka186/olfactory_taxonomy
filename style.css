@@ -1,0 +1,97 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+#graph {
+	margin: 0 auto;
+	width:600px;
+}
+
+.button {
+	width:100px;
+	padding:10px 5px;
+	margin:5px;
+	text-align: center;
+	display:inline-block;
+	background:red;
+	cursor:pointer;
+	transition: opacity 1s;
+	font-family: 'Roboto', sans-serif;
+	color:#fff;
+}
+
+.button:hover {
+	opacity:0.6;
+}
+
+.scent_1_dot {
+	transition: opacity 0.7s ease-in-out, r 0.7s ease-in-out;
+}
+
+.scent_2_dot {
+	transition: opacity 0.7s ease-in-out, r 0.7s ease-in-out;
+}
+
+.scent_3_dot {
+	transition: opacity 0.7s ease-in-out, r 0.7s ease-in-out;
+}
+
+.scent_4_dot {
+	transition: opacity 0.7s ease-in-out, r 0.7s ease-in-out;
+}
+
+.scent_5_dot {
+	transition: opacity 0.7s ease-in-out, r 0.7s ease-in-out;
+}
+
+.scent_6_dot {
+	transition: opacity 0.7s ease-in-out, r 0.7s ease-in-out;
+}
+
+.scent_7_dot {
+	transition: opacity 0.7s ease-in-out, r 0.7s ease-in-out;
+}
+
+.scent_8_dot {
+	transition: opacity 0.7s ease-in-out, r 0.7s ease-in-out;
+}
+
+#buttons {
+	width:990px;
+	/*background:blue;*/
+	margin: 0 auto;
+}
+
+#button1 {
+	background:red;
+}
+
+#button2 {
+	background:salmon;
+}
+
+#button3 {
+	background:gold;
+}
+
+#button4 {
+	background:yellowgreen;
+}
+
+#button5 {
+	background:green;
+}
+
+#button6 {
+	background:cornflowerblue;
+}
+
+#button7 {
+	background:blue;
+}
+
+#button8 {
+	background:purple;
+}
+
+#clearButton {
+	background:gray;
+}
